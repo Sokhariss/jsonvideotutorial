@@ -1,18 +1,20 @@
 {
-	{
-		"Battery" : "255",
-		"RSSI" : "12",
-		"description" : "",
-		"dtype" : "General",
-		"hwid" : "26",
-		"id" : "shellyswitch25-40F52000A41A-0-energy",
-		"idx" : "140",
-		"name" : "ShellyMQTT - shellyswitch25-40F52000A41A-0-energy",
-		"nvalue" : "0",
-		"stype" : "kWh",
-		"svalue1" : "0.0",
-		"svalue2" : "352.512",
-		"unit" : "63"
-	}
+	"Device_Value":[
+		{
+			"Battery" : "255",
+			"RSSI" : "12",
+			"description" : "",
+			"dtype" : "General",
+			"hwid" : "26",
+			"id" : "shellyswitch25-40F52000A41A-0-energy",
+			"idx" : "140",
+			"name" : "ShellyMQTT - shellyswitch25-40F52000A41A-0-energy",
+			"nvalue" : "0",
+			"stype" : "kWh",
+			"svalue1" : "0.0",
+			"svalue2" : "352.512",
+			"unit" : "63"
+			}
+		]
 	
 }
